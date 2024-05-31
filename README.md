@@ -1,11 +1,11 @@
-👋 Hi there! I'm Soher 3000, a passionate and dedicated software developer with a keen interest in open-source projects. Welcome to my GitHub profile!
+👋 Greetings! I'm Soher 3000, a committed software developer with a fervent passion for open-source projects. Welcome to my GitHub profile!
 
-🌱 I'm currently exploring the ever-evolving world of software development, focusing on Java. I love to learn and grow with each project I undertake, and I am always looking for new challenges. My repositories reflect my journey in coding, showcasing various projects ranging from simple scripts to complex applications.
+🌱 Currently, I am delving into the intricate world of software development, focusing on PHP, Laravel, Vue.js, and MySQL. I thrive on learning and evolving with each project I undertake, always seeking new challenges. My repositories reflect my coding journey, showcasing various projects from straightforward scripts to complex applications.
 
-💻 I believe in the power of collaboration and am excited to connect with other developers and tech enthusiasts. Whether you're here to check out my work or collaborate on exciting projects, I'm glad you stopped by!
+💻 I am a firm believer in the power of collaboration and am eager to connect with fellow developers and tech enthusiasts. Whether you're here to explore my work or collaborate on thrilling projects, I'm delighted you stopped by!
 
 🌟 Main Languages and Tools:
 
-    Java, networking, base of Rust and Python.
+    PHP, Laravel, Vue.js, MySQL, Bootstrap 5.
 
-🔭 I'm currently not working on any project(
+🔭 At the moment, I'm not actively working on any specific project.
